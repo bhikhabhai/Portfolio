@@ -932,6 +932,10 @@ body {
         content: "\a";
         white-space: pre;
     }
+    .abt-res{
+        width: 70%;
+        margin-left: 50px;
+    }
     
 }
 
@@ -1099,6 +1103,10 @@ body {
         transition: all .4s;
     }
     
+    .abt-res{
+        width: 90%;
+        margin-left: 10px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1268,5 +1276,10 @@ body {
     }
     .top i{
         color: #000;
+    }
+
+    .abt-res{
+        width: 100%;
+        margin-left: 0px;
     }
 }
