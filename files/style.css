@@ -1107,6 +1107,9 @@ body {
         width: 90%;
         margin-left: 10px;
     }
+    .about-img{
+        padding-top: 30px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1281,5 +1284,8 @@ body {
     .abt-res{
         width: 100%;
         margin-left: 0px;
+    }
+    .about-img{
+        padding-top: 50px;
     }
 }
