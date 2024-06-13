@@ -1046,19 +1046,19 @@ body {
         margin-left: 0px;
     }
     .bar .info .addhtml::before{
-        content: "90%";
-    }
-    .bar .info .addcss::before{
         content: "80%";
     }
+    .bar .info .addcss::before{
+        content: "70%";
+    }
     .bar .info .addpy::before{
-        content: "75%";
+        content: "45%";
     }
     .bar .info .addjava::before{
         content: "50%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "90%";
     }
 
     /*project*/
@@ -1222,19 +1222,19 @@ body {
         left: 25%;
     }
     .bar .info .addhtml::before{
-        content: "90%";
-    }
-    .bar .info .addcss::before{
         content: "80%";
     }
+    .bar .info .addcss::before{
+        content: "70%";
+    }
     .bar .info .addpy::before{
-        content: "75%";
+        content: "45%";
     }
     .bar .info .addjava::before{
         content: "50%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "90%";
     }
 
     /*project*/
